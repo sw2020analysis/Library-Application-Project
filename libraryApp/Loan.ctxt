@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Loan
+comment0.text=\r\n\ Loan\ Class\r\n\r\n\ @author\ (3\uD300\ \uAC15\uC601\uBBF8,\ \uC804\uC720\uC815,\ \uCD5C\uC11C\uC5F0,\ \uD5C8\uB2E4\uD76C)\r\n\ @version\ ()\r\n
+comment1.params=book\ borrower
+comment1.target=Loan(Book,\ Borrower)
+comment1.text=\r\n\ Loan\ Constructor\ \r\n\ @param\ book\r\n\ @param\ borrower\r\n
+comment2.params=
+comment2.target=Borrower\ detachBorrower()
+comment2.text=\r\n\ SQ6\ \uCC45\uC744\ \uBC18\uB0A9\uD55C\uB2E4\ -\ detachBorrower()\r\n
+comment3.params=
+comment3.target=Borrower\ getBorrower()
+comment3.text=\r\n\ Loan\ \uD074\uB798\uC2A4\uC758\ \uC18D\uC131\ borrower\uB97C\ \uB9AC\uD134\uD558\uB294\ \uBA54\uC18C\uB4DC\r\n\ @return\ borrower\r\n
+comment4.params=
+comment4.target=Book\ getBook()
+comment4.text=\r\n\ Loan\ \uD074\uB798\uC2A4\uC758\ \uC18D\uC131\ book\uC744\ \uB9AC\uD134\uD558\uB294\ \uBA54\uC18C\uB4DC\r\n\ @return\ book\r\n
+numComments=5

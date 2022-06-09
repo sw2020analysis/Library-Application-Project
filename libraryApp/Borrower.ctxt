@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Borrower
+comment0.text=\r\n\ Borrower\ Class\r\n\r\n\ @author\ (3\uD300\ \uAC15\uC601\uBBF8,\ \uC804\uC720\uC815,\ \uCD5C\uC11C\uC5F0,\ \uD5C8\uB2E4\uD76C)\r\n\ @version\ ()\r\n
+comment1.params=name
+comment1.target=Borrower(java.lang.String)
+comment1.text=\r\n\ Borrower\ Constructor\r\n\ @param\ name\r\n
+comment2.params=
+comment2.target=int\ getLoanArraySize()
+comment2.text=\r\n\ SQ3\ \uB300\uCD9C\uAC00\uB2A5\uD55C\ \uCC45\uB4E4\uC744\ \uD654\uBA74\uCD9C\uB825\uD55C\uB2E4\ -\ checkBorrowerLoan(name\:\ String)\ \uC5D0\uC11C\ \uD638\uCD9C\uB418\uB294\ getLoanState()\ \uBA54\uC18C\uB4DC\r\n\ @return\ loanArray\uC758\ \uD06C\uAE30\r\n
+comment3.params=loan
+comment3.target=void\ attachLoan(Loan)
+comment3.text=\r\n\ SQ5\ \uCC45\uC744\ \uB300\uCD9C\uD55C\uB2E4.\ -\ 1.8\:\ attachLoan(loan\:\ Loan)\r\n\ @param\ loan\r\n
+comment4.params=loan
+comment4.target=void\ detachLoan(Loan)
+comment4.text=\r\n\ SQ6\ \uCC45\uC744\ \uBC18\uB0A9\uD55C\uB2E4\ -\ detachLoan(loan\:\ Loan)\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

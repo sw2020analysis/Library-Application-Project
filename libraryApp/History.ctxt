@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=History
+comment0.text=\r\n\ history\ Class\r\n\r\n\ @author\ (3\uD300\ \uAC15\uC601\uBBF8,\ \uC804\uC720\uC815,\ \uCD5C\uC11C\uC5F0,\ \uD5C8\uB2E4\uD76C)\r\n\ @version\ ()\r\n
+comment1.params=state\ loan\ date
+comment1.target=History(java.lang.String,\ Loan,\ java.time.LocalDate)
+comment2.params=
+comment2.target=java.lang.String\ getState()
+comment3.params=
+comment3.target=java.lang.String\ getBorrowerName()
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=java.time.LocalDate\ getDate()
+numComments=6

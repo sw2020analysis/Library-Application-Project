@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MyLibraryApplication
+comment0.text=\r\n\ \ Library\ Application\uC744\ \uC2E4\uD589\uD558\uB294\ MyLibraryApplication\ Class\r\n\r\n\ @author\ (3\uD300\ \uAC15\uC601\uBBF8,\ \uC804\uC720\uC815,\ \uCD5C\uC11C\uC5F0,\ \uD5C8\uB2E4\uD76C)\r\n\ @version\ ()\r\n
+comment1.params=
+comment1.target=void\ displayMenu()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=library
+comment3.target=void\ registerOneBorrower_SQ1(Library)
+comment4.params=library
+comment4.target=void\ registerOneBook_SQ2(Library)
+comment5.params=library
+comment5.target=void\ displayBooksForLoan_SQ3(Library)
+comment6.params=library
+comment6.target=void\ displayBooksOnLoan_SQ4(Library)
+comment7.params=library
+comment7.target=void\ lendOneBook_SQ5(Library)
+comment8.params=library
+comment8.target=void\ returnOneBook_SQ6(Library)
+comment9.params=library
+comment9.target=void\ displayHistory(Library)
+numComments=11
